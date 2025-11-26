@@ -1,6 +1,6 @@
 # 📱 HouseHarmony User Guide
 
-****Your Complete Guide to Gamified Household Chore Management****
+***Your Complete Guide to Gamified Household Chore Management***
 
 ---
 
